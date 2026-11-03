@@ -22,7 +22,7 @@ Participant-level data are not publicly distributed. Do not attempt to infer par
 
 ## Related projects
 
-- [Cannabis-use levels and neurocognition among people living with HIV](https://github.com/arafanning/Nonlinear.Associations.2026)
+- [Cannabis-use levels and neurocognition among people living with HIV](https://github.com/arafanning/HIV.Cannabis.Neurocognition.2026)
 - [Everyday functioning and medication adherence among people living with HIV](https://github.com/arafanning/ADLs.2027)
 - [Dissertation overview and academic website](https://arafanning.github.io/)
 
